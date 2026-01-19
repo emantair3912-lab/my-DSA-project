@@ -1,2 +1,2 @@
-# my-DSA-project
-This is my first DSA project represented as the final year project
+# MAZE GRID SOLVER
+A Java-based Maze grid project that generates,visualizes, and solves mazes using efficient algorithm 
